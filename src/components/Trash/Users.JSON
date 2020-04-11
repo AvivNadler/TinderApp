@@ -1,0 +1,36 @@
+{
+    "Profiles" : [
+        {
+            "id" : "1",
+            "name": "Gilad Zilberg",
+            "gender" : "Male",
+            "age" : "28",
+            "height" : "178",
+            "city": "Tel Aviv",
+            "imgSrc" : "...",
+            "userType" : "Premium",
+            "hobbies": 
+            [
+                "Football",
+                "Basketball",
+                "Volleyball"   
+            ] 
+        },
+        {
+                "id" : "2",
+                "name": "Omer Kimhi",
+                "gender" : "Male",
+                "age" : "28",
+                "height" : "178",
+                "city": "Tel Aviv",
+                "imgSrc" : "...",
+                "userType" : "Premium",
+                "hobbies": 
+                [
+                    "Football",
+                    "Basketball",
+                    "Volleyball"   
+                ] 
+            }
+    ]
+}
